@@ -12,7 +12,7 @@ The application uses **Django** as the backend framework and **SQLite** for data
 
 - 🔐 **User Authentication**
   - User registration
-  - User login and logout
+  - User login and logout.    
   - Session-based authentication
   - Protected application pages
 
