@@ -1,6 +1,6 @@
 # 🔐 Cloud Authentication & Privacy Project
 
-A **cloud-based authentication and privacy management web application** developed using **Python, Django, and SQLite**. The project demonstrates secure user authentication, database management, privacy-focused application design, and the fundamentals of deploying a Python web application in a cloud environment.
+A **cloud-based authentication and privacy management web application** developed using **Python, Django, and SQLite**. The project demonstrates secure user authentication, database management, privacy-focused application design, and the fundamentals of deploying a Python web application in a cloud environment.      
 
 ## 📌 Project Overview
 
